@@ -7,8 +7,7 @@ ng new scada
 # Routing? Yes
 # Style?   SCSS
 cd scada
-npm install --save angular-material
-npm install --save @angular/cdk
+npm install --save @angular/material @angular/cdk @angular/animations
 ```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
